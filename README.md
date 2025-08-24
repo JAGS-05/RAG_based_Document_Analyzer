@@ -23,7 +23,7 @@ Like Twitter/X’s **“See similar posts”** — RAG retrieves related chunks 
 
 
 ## More Details
-👉 Check out my LinkedIn post here: [Your LinkedIn Post Link]
+👉 Check out my LinkedIn post here: https://www.linkedin.com/posts/jagathsri-santhanalakshmi-a-53950924a_rag-llm-langchain-activity-7347289178503536640-Oy5o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2n270BAuI3Vck6hopMScELuqQCoUTGPPA
 
 
 ## Run Locally
